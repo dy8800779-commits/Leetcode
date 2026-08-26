@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dy8800779-commits/Leetcode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Recursion
 |  |
 | ------- |
