@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/dy8800779-commits/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
@@ -38,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dy8800779-commits/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/dy8800779-commits/Leetcode/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/dy8800779-commits/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
