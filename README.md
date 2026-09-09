@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
