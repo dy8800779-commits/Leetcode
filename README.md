@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/dy8800779-commits/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0169-majority-element) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dy8800779-commits/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dy8800779-commits/Leetcode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1009-complement-of-base-10-integer) |
