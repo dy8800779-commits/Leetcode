@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dy8800779-commits/Leetcode/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dy8800779-commits/Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/dy8800779-commits/Leetcode/tree/master/0217-contains-duplicate) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
