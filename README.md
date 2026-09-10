@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/dy8800779-commits/Leetcode/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/dy8800779-commits/Leetcode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dy8800779-commits/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
