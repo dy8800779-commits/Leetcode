@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/dy8800779-commits/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dy8800779-commits/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/dy8800779-commits/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/dy8800779-commits/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/dy8800779-commits/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/dy8800779-commits/Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/dy8800779-commits/Leetcode/tree/master/0231-power-of-two) |
