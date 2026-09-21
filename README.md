@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/dy8800779-commits/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2942-find-words-containing-character](https://github.com/dy8800779-commits/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dy8800779-commits/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dy8800779-commits/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/dy8800779-commits/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/dy8800779-commits/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dy8800779-commits/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/dy8800779-commits/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
