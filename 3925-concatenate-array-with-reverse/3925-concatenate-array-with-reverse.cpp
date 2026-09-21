@@ -1,4 +1,3 @@
-/*
 class Solution {
 public:
     vector<int> concatWithReverse(vector<int>& nums) {
@@ -12,7 +11,8 @@ public:
     }
 };
 
-*/
+/*
+
 class Solution {
 public:
     vector<int> concatWithReverse(vector<int>& nums) {
@@ -21,3 +21,5 @@ public:
         return ans;
     }
 };
+
+*/
