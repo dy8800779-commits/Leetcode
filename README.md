@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/dy8800779-commits/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/dy8800779-commits/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dy8800779-commits/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dy8800779-commits/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
