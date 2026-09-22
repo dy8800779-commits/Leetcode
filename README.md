@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/dy8800779-commits/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dy8800779-commits/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dy8800779-commits/Leetcode/tree/master/0066-plus-one) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/dy8800779-commits/Leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dy8800779-commits/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
