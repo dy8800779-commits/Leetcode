@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/dy8800779-commits/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/dy8800779-commits/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/dy8800779-commits/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
