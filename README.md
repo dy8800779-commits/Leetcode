@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dy8800779-commits/Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dy8800779-commits/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/dy8800779-commits/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dy8800779-commits/Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/dy8800779-commits/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dy8800779-commits/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/dy8800779-commits/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dy8800779-commits/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dy8800779-commits/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dy8800779-commits/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dy8800779-commits/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
