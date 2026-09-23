@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/dy8800779-commits/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/dy8800779-commits/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
