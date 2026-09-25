@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dy8800779-commits/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dy8800779-commits/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/dy8800779-commits/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dy8800779-commits/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1920-build-array-from-permutation](https://github.com/dy8800779-commits/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dy8800779-commits/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dy8800779-commits/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/dy8800779-commits/Leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dy8800779-commits/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dy8800779-commits/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3668-restore-finishing-order](https://github.com/dy8800779-commits/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/dy8800779-commits/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dy8800779-commits/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dy8800779-commits/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dy8800779-commits/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/dy8800779-commits/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
