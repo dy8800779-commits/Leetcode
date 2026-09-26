@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dy8800779-commits/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dy8800779-commits/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dy8800779-commits/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/dy8800779-commits/Leetcode/tree/master/0223-rectangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/dy8800779-commits/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
