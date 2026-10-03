@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/dy8800779-commits/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dy8800779-commits/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/dy8800779-commits/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dy8800779-commits/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dy8800779-commits/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0367-valid-perfect-square](https://github.com/dy8800779-commits/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/dy8800779-commits/Leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dy8800779-commits/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
