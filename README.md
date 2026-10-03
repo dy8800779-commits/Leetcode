@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/dy8800779-commits/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dy8800779-commits/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dy8800779-commits/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/dy8800779-commits/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dy8800779-commits/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dy8800779-commits/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
